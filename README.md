@@ -1,7 +1,7 @@
 Hi 👋 My name is Luciano Luna
 =============================
 
-Frontend developer
+Fullstack developer
 ------------------
 
 Hello! I am an enthusiastic web developer with 3 years of self-taught experience. My skills cover HTML, CSS, JavaScript, React, Next.js and Express.js for creating APIs, using databases such as MongoDB or PostgreSQL.
