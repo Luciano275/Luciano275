@@ -4,7 +4,7 @@ Hi 👋 My name is Luciano Luna
 Fullstack developer
 ------------------
 
-Hello! I am an enthusiastic web developer with 3 years of self-taught experience. My skills cover HTML, CSS, JavaScript, React, Next.js and Express.js for creating APIs, using databases such as MongoDB or PostgreSQL.
+Hello! I am an enthusiastic web developer with 3 years of self-taught experience. My skills cover HTML, CSS, JavaScript, React, Next.js and Nestjs for creating APIs, using databases such as MongoDB or PostgreSQL.
 
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [luna800153@gmail.com](mailto:luna800153@gmail.com)
@@ -17,6 +17,6 @@ Hello! I am an enthusiastic web developer with 3 years of self-taught experience
                     </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luciano275&theme=react&show_icons=true&hide_border=true&count_private=true" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano275&theme=react&show_icons=true&hide_border=true&layout=compact" width="225" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luciano275&theme=react&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano275&theme=react&show_icons=true&hide_border=true&layout=compact" width="325" />
 </div>
