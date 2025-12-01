@@ -54,9 +54,6 @@ Hello! I am an enthusiastic web developer with 3 years of self-taught experience
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luciano275&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano275&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="42%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano275&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="42%" />
 
 
